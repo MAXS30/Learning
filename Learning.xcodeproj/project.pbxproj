@@ -9,6 +9,7 @@
 /* Begin PBXFileReference section */
 		595792A82247211100554175 /* test.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = test.py; sourceTree = "<group>"; };
 		595792A92247539900554175 /* main.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = main.py; sourceTree = "<group>"; };
+		599884A62249191A00295028 /* web.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = web.py; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXGroup section */
@@ -17,6 +18,7 @@
 			children = (
 				595792A82247211100554175 /* test.py */,
 				595792A92247539900554175 /* main.py */,
+				599884A62249191A00295028 /* web.py */,
 			);
 			sourceTree = "<group>";
 		};
