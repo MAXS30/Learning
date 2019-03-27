@@ -19,20 +19,20 @@
 			isa = PBXGroup;
 			children = (
 				59B31FA0224B8FF30064AFA8 /* static */,
-				59B31F9E224B8FC60064AFA8 /* template */,
+				59B31F9E224B8FC60064AFA8 /* templates */,
 				595792A82247211100554175 /* test.py */,
 				595792A92247539900554175 /* main.py */,
 				599884A62249191A00295028 /* web.py */,
 			);
 			sourceTree = "<group>";
 		};
-		59B31F9E224B8FC60064AFA8 /* template */ = {
+		59B31F9E224B8FC60064AFA8 /* templates */ = {
 			isa = PBXGroup;
 			children = (
 				59B31FA4224B91720064AFA8 /* layout.html */,
 				59B31FA5224B93B20064AFA8 /* index.html */,
 			);
-			path = template;
+			path = templates;
 			sourceTree = "<group>";
 		};
 		59B31FA0224B8FF30064AFA8 /* static */ = {
