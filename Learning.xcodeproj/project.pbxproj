@@ -11,6 +11,7 @@
 		595792A92247539900554175 /* main.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = main.py; sourceTree = "<group>"; };
 		599884A62249191A00295028 /* web.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = web.py; sourceTree = "<group>"; };
 		59B31FA4224B91720064AFA8 /* layout.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = layout.html; sourceTree = "<group>"; };
+		59B31FA5224B93B20064AFA8 /* index.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = index.html; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXGroup section */
@@ -29,6 +30,7 @@
 			isa = PBXGroup;
 			children = (
 				59B31FA4224B91720064AFA8 /* layout.html */,
+				59B31FA5224B93B20064AFA8 /* index.html */,
 			);
 			path = template;
 			sourceTree = "<group>";
