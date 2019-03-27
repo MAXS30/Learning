@@ -10,8 +10,7 @@
 		595792A82247211100554175 /* test.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = test.py; sourceTree = "<group>"; };
 		595792A92247539900554175 /* main.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = main.py; sourceTree = "<group>"; };
 		599884A62249191A00295028 /* web.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = web.py; sourceTree = "<group>"; };
-		59B31FA2224B90A20064AFA8 /* css */ = {isa = PBXFileReference; lastKnownFileType = folder; name = css; path = "../../../Downloads/bootstrap-4.3.1-dist/css"; sourceTree = "<group>"; };
-		59B31FA3224B90BB0064AFA8 /* js */ = {isa = PBXFileReference; lastKnownFileType = folder; name = js; path = "../../../Downloads/bootstrap-4.3.1-dist/js"; sourceTree = "<group>"; };
+		59B31FA4224B91720064AFA8 /* layout.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = layout.html; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXGroup section */
@@ -29,6 +28,7 @@
 		59B31F9E224B8FC60064AFA8 /* template */ = {
 			isa = PBXGroup;
 			children = (
+				59B31FA4224B91720064AFA8 /* layout.html */,
 			);
 			path = template;
 			sourceTree = "<group>";
@@ -36,8 +36,6 @@
 		59B31FA0224B8FF30064AFA8 /* static */ = {
 			isa = PBXGroup;
 			children = (
-				59B31FA3224B90BB0064AFA8 /* js */,
-				59B31FA2224B90A20064AFA8 /* css */,
 			);
 			name = static;
 			path = "New Group";
